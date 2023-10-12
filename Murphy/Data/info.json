@@ -1,0 +1,26 @@
+[
+        {
+            "id" : 1,
+            "image" : "info-pomodoro"
+        },
+        {
+            "id" : 2,
+            "image" : "info-stopwatch"
+        },
+        {
+            "id" : 3,
+            "image" : "info-plancreator"
+        },
+        {
+            "id" : 4,
+            "image" : "info-message"
+        },
+        {
+            "id" : 5,
+            "image" : "info-workcreator"
+        },
+        {
+            "id" : 6,
+            "image" : "info-freelancing"
+        }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "name" : "Pomodoro",
+        "image" : "icon-pomodoro"
+    },
+    {
+        "id" : 2,
+        "name" : "Freelancing",
+        "image" : "icon-freework"
+    },
+    {
+        "id" : 3,
+        "name" : "Stopwatch",
+        "image" : "icon-stopwatch"
+    },
+    {
+        "id" : 4,
+        "name" : "Message to Self",
+        "image" : "icon-message"
+    },
+    {
+        "id" : 5,
+        "name" : "Work Creator",
+        "image" : "icon-work"
+    },
+    {
+        "id" : 6,
+        "name" : "Plan Creator",
+        "image" : "icon-plan"
+    }
+]
